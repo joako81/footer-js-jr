@@ -1,0 +1,26 @@
+{
+  "name": "footer-js-jr",
+  "version": "0.1.0",
+  "description": "Este módulo permite generar un footer dinámico para aplicaciones de JS con actualización de año y nomombre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joako81/footer-js-jr.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Joaquín Rosa <joaquin.rosa.82@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joako81/footer-js-jr/issues"
+  },
+  "homepage": "https://github.com/joako81/footer-js-jr#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+    
+  }
+}
